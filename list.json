@@ -1,9 +1,13 @@
 {
   "list": [{
-    "name": "chat",
-    "description": "A Chat Scaffold based on antd and dva",
-    "author": "surgesoft@gmail.com",
-    "chineseName": "聊天脚手架",
-    "source": "https://github.com/RaoHai/chat.git"
+    "url": "https://github.com/dvajs/dva-example-user-dashboard/",
+    "name": "dva-example-user-dashboard",
+    "git_url": "git://github.com/dvajs/dva-example-user-dashboard.git",
+    "chineseName": "dva-example-user-dashboard",
+    "author": "dvajs",
+    "description": "👲 👬 👨‍👩‍👧 👨‍👩‍👦‍👦",
+    "version": "0.0.1",
+    "industry": "react",
+    "source": "npm"
   }]
 }
