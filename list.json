@@ -1,5 +1,15 @@
 {
   "list": [{
+    "url": "https://github.com/RaoHai/chat",
+    "name": "chat",
+    "git_url": "git://github.com/RaoHai/chat.git",
+    "chineseName": "chat",
+    "author": "RaoHai",
+    "description": "A Chat Scaffold based on antd and dva:",
+    "version": "0.0.1",
+    "industry": "react",
+    "source": "npm"
+  }, {
     "url": "https://github.com/dvajs/dva-example-user-dashboard/",
     "name": "dva-example-user-dashboard",
     "git_url": "git://github.com/dvajs/dva-example-user-dashboard.git",
