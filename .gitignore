@@ -8,7 +8,7 @@
 /out
 
 # gh-pages
-/_temp
+_temp/
 
 # misc
 .DS_Store
