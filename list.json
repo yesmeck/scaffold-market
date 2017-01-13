@@ -6,7 +6,7 @@
     "chineseName": "chat",
     "author": "RaoHai",
     "description": "A Chat Scaffold based on antd and dva:",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "industry": "react",
     "source": "npm"
   }, {
