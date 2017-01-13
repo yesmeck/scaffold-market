@@ -19,5 +19,15 @@
     "version": "0.0.1",
     "industry": "react",
     "source": "npm"
+  }, {
+    "url": "https://github.com/dvajs/dva-hackernews",
+    "name": "dva-hackernews",
+    "git_url": "git://github.com/dvajs/dva-hackernews.git",
+    "chineseName": "dva-hackernews",
+    "author": "dvajs",
+    "description": "HackerNews clone built with Dva.",
+    "version": "0.0.1",
+    "industry": "react",
+    "source": "npm"
   }]
 }
